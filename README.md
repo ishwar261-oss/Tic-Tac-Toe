@@ -22,11 +22,9 @@ The game automatically detects:
 4. If all 9 boxes are filled without a winner, the game ends in a draw.
 5. Use **Reset Game** or **New Game** to start again.
 
-## Technologies
+## Check Out
 
-- HTML
-- CSS
-- JavaScript
+🎮 **[Play Tic Tac Toe](https://ishwar261-oss.github.io/Tic-Tac-Toe/)**
 
 ## Project
 
